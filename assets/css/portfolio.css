@@ -1,0 +1,28 @@
+img {
+    width: 50%;
+}
+.label {
+    position: absolute;
+    background-color:  #4aaaa4;
+    color: white;
+    left: 16%;
+}
+.nodeLabel { 
+    top: 80%;
+}
+.react {
+    margin-top: 10%;
+}
+.reactLabel {
+    top: 80%;
+}
+.htmlLabel {
+    top: 82%;
+}
+.cssLabel {
+    top: 81%;
+    left: 18%;
+}
+div ul li a{
+    color: grey;
+}
