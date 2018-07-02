@@ -15,8 +15,9 @@ img {
 }
 .crystalLabel {
     top: 80%;
+    left: 14%;
 }
-.htmlLabel {
+.triviaLabel {
     top: 82%;
 }
 .cssLabel {
