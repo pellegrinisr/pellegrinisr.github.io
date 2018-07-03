@@ -15,14 +15,14 @@ img {
 }
 .crystalLabel {
     top: 80%;
-    left: 14%;
+    left: 18%;
 }
 .triviaLabel {
-    top: 82%;
-}
-.cssLabel {
-    top: 81%;
-    left: 18%;
+        top: 82%;
+    }
+.giphyLabel {
+    top: 91%;
+    left: 20%;
 }
 div ul li a{
     color: grey;
