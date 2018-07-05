@@ -9,14 +9,6 @@ $(document).ready(function() {
     };
     firebase.initializeApp(config);
     
-    firebase.auth().signInWithEmailAndPassword('spellegrini156@gmail.com', 'J&Sapril2008').catch(function(error) {
-        // Handle Errors here.
-        var errorCode = error.code;
-        var errorMessage = error.message;
-    });
-
-    console.log(firebase.auth());
-
     var database = firebase.database();
     var myDBRef = database.ref();
 
